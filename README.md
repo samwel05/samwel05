@@ -1,17 +1,32 @@
-### Olá, como vai? 👋
-#
+<h1 align="center">👋 Olá, como vai?</h1>
 
-**📨 Contato:**
+### 📨 Contato: 
+
 - Gmail: *samuelreinaldogoncalves@gmail.com*
 - Discord: *@samwel05*
+---
 
-#
+ ## ⚙️ Sistemas, softwares e linguagens
+ - Linguagens;
+   
+    ![Java](https://img.shields.io/badge/-Java-gray?style=flat&logo=openjdk) 
+    ![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python) 
 
- **⚙️ Sistemas, softwares e linguagens**
 
- ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=IntelliJIDEA)
- ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk) 
- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
- ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
- ![Krita](https://img.shields.io/badge/Krita-black?style=flat&logo=krita)
- ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
+ - Softwares;
+   
+    ![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma)
+    ![Krita](https://img.shields.io/badge/Krita-gray?style=flat&logo=krita)
+
+ - Sistemas Operacionais;
+   
+    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat&logo=ubuntu)
+    ![Fedora](https://img.shields.io/badge/Fedora-gray?style=flat&logo=fedora)
+---
+## 🔍 Outras competências
+
+**Idiomas**:
+- 🇺🇸 Inglês: Avançado
+- 🇩🇪 Alemão: Amador
+
+
