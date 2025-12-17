@@ -25,8 +25,10 @@
 ---
 ## 🔍 Outras competências
 
-**Idiomas**:
-- 🇺🇸 Inglês: Avançado
-- 🇩🇪 Alemão: Amador
+- **Idiomas**:
+
+  Inglês: Avançado
+  
+  Alemão: Amador
 
 
